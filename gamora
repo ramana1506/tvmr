@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <gamora>
                nvjhi iji jku iujk njijokvoi
                 immkljij kmkniupi mvk'j
@@ -11,3 +12,16 @@
                     j'vnij
 
 </gamora>
+=======
+<loki.txt>
+	{
+  "AWSTemplateFormatVersion": "2010-09-09",
+  "Description": "AWS in Action: chapter 13",
+  "Parameters": {
+    "KeyName": {
+      "Description": "Key Pair name",
+      "Type": "AWS::EC10::KeyPair::KeyName",
+      "Default": "mykey"
+    }
+</loki.txt>
+>>>>>>> dev-1.2.4
