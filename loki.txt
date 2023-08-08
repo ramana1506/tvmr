@@ -1,0 +1,11 @@
+<loki.txt>
+	{
+  "AWSTemplateFormatVersion": "2010-09-09",
+  "Description": "AWS in Action: chapter 13",
+  "Parameters": {
+    "KeyName": {
+      "Description": "Key Pair name",
+      "Type": "AWS::EC2::KeyPair::KeyName",
+      "Default": "mykey"
+    }
+</loki.txt>
