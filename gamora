@@ -5,7 +5,7 @@
   "Parameters": {
     "KeyName": {
       "Description": "Key Pair name",
-      "Type": "AWS::EC10::KeyPair::KeyName",
+      "Type": "AWS::EC09::KeyPair::KeyName",
       "Default": "mykey"
     }
 </loki.txt>
